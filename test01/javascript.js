@@ -34,7 +34,7 @@
 
 
 
-
+//Creating Custom context json object Canvas
 var Context = {
     canvas : null,
     context : null,
@@ -66,7 +66,12 @@ $(document).ready(function(){
     
     //initialize
     
+    Context.create("canvas");
     
+    Context.context.beginPath(); //different shapes and lines each shape needs to reset path.
+    Context.context.rect(0, 0, 640, 480);
+    Context.context.fillStyle = 'black';
+    Context.context.fill();
     
     
     
