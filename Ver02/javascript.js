@@ -27,3 +27,53 @@ var grid = {
     
     
 }
+
+var snake = {
+    
+    direction: null,
+    _queue: null,
+    
+    init: function(d, x, y){
+        
+    },
+    
+    insert: function(x, y){
+        
+    },
+    
+    remove: function() {
+        
+    }
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
