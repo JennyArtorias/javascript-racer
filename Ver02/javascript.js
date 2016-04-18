@@ -57,9 +57,17 @@ function setFood(){
     
 }
 
-function main
+function main(){}
 
+function init(){}
 
+function loop(){}
+
+function update(){}
+
+function draw(){}
+
+main();
 
 
 
