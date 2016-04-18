@@ -1,5 +1,29 @@
-var c = document.getElementById("myCanvas");
-var ctx = c.getContext("2d");
 
-ctx.font = "20px Georgia";
-ctx.fillText("Hello World!", 10, 50);
+
+//Constants
+var cols=26, rows=26;
+//Ids
+var empty=0, snake=1, fruit=2;
+
+var grid = {
+    
+    
+    width:null,
+    height:null,
+    _grid:null,
+    
+    
+    init: function(d, c, r) {
+        
+    },
+    
+    set: function(val, x, y){
+        
+    }
+    
+    get: function(x, y){
+    
+    }
+    
+    
+}
