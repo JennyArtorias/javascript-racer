@@ -53,6 +53,11 @@ var snake = {
 
 
 
+function setFood(){
+    
+}
+
+function main
 
 
 
