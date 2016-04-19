@@ -14,6 +14,10 @@ $(document).ready(function(){
     var food;
     var score;
     
+    //Create snake
+    
+    var snake_array; // array of cells to make up the snake 
+    
     
     
     
